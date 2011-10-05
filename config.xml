@@ -4,7 +4,7 @@
 	id		= "com.brianpfeil.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Test App 01</name>
 
 	<description>
 		A template for getting started with PhoneGap development and build.phonegap.com
